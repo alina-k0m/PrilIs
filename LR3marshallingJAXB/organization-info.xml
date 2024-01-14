@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<organization>
+    <nameOrg>Oriflame</nameOrg>
+    <departments>
+        <department>
+            <deptNo>D01</deptNo>
+            <deptName>ACCOUNTING</deptName>
+            <location>NEW YORK</location>
+        </department>
+    </departments>
+    <employees>
+        <empNo>E01</empNo>
+        <empName>Tom</empName>
+    </employees>
+    <employees>
+        <empNo>E02</empNo>
+        <empName>Mary</empName>
+        <managerNo>E01</managerNo>
+    </employees>
+    <employees>
+        <empNo>E03</empNo>
+        <empName>John</empName>
+    </employees>
+</organization>
